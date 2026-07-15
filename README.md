@@ -24,3 +24,7 @@ python3 calibrate.py 9.86 10.01 10.14 10.17 10.26
 [*] expected 10.40 - result 10.26
 X-Y hole/contour compensation: 0.05600000000000005 (Radius)
 ```
+
+### Test Jig Image
+
+![Jig](./jig.png)
