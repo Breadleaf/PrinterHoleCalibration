@@ -2,7 +2,7 @@
 
 These instructions are for slic3r forks. I have only tested on BambuStudio.
 
-1. Print `./PHC-test_jig.3mf` using your slicer's default settings
+1. Print `PHC-test_jig.3mf` using your slicer's default settings
 2. Measure the diameter of the holes with a caliper set to measure mm
 3. Run calibration script as follows:
 ```
