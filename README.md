@@ -1,5 +1,7 @@
 # Printer Hole Calibration
 
+These instructions are for slic3r forks. I have only tested on BambuStudio.
+
 1. Print the model
 2. Measure the holes
 3. Run calibration script as follows:
